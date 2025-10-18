@@ -13,13 +13,13 @@ At the end of each semester, senior high school class advisers face significant 
 
 ### ⚙️ Solution Approach
 
-Data Entry and Validation:<br>
+**Data Entry and Validation:** <br>
 Excel tables were primarily used for data entry. To validate and standardize data formats and avoid errors, dropdown menus, input messages, and error alerts were included.
 
-Automation:<br>
+**Automation:** <br>
 A combination of Macro recording and VBA scripts is used to automate repetitive tasks. These scripts is attached to objects (buttons) performing functions such as page navigation, saving copies, printing, etc.
 
-Excel Formulas:<br>
+**Excel Formulas:** <br>
 The most common formulas used in this project include:
 
 - **Lookup Functions** (particularly **INDEX-MATCH**) – used to retrieve data from any column into report cards and permanent records.
@@ -30,10 +30,11 @@ The most common formulas used in this project include:
 
 - **Logical Calculations** – used to return results based on logical tests, typically for remarks such as *Pass* or *Fail*.
 
-### 📈 Key Results<br>
-✅Streamlined the preparation of school forms, cutting processing time from 1 week to less than one day. 
-✅Eliminated 100% of data-entry errors, removing the need for manual cross-checks.
-✅Delivered a practical, easy-to-use solution adopted by senior high school advisers for 2 consecutive school years
+### 📈 Key Results
+
+✅Streamlined the preparation of school forms, cutting processing time from 1 week to less than one day.<br> 
+✅Eliminated 100% of data-entry errors, removing the need for manual cross-checks.<br>
+✅Delivered a practical, easy-to-use solution adopted by senior high school advisers for two consecutive school years.
 
 
 ### 📊 Final Deliverables
