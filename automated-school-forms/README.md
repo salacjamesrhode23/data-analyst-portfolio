@@ -41,3 +41,8 @@ The most common formulas used in this project include:
 [![Watch the demo](https://img.youtube.com/vi/A4ATo3WMl-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=A4ATo3WMl-U)
 
 
+[Watch Project Demo](https://github.com/salacjamesrhode77/portfolio-assets/raw/refs/heads/main/videos/automated-school-forms/project_demo.mp4)
+
+
+
+
