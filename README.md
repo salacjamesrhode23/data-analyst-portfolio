@@ -1,4 +1,4 @@
-# Welcome to My Data Analytics & Engineering Portfolio 👋
+## Welcome to My Data Analytics & Engineering Portfolio 👋
 
 Hi! I'm James Rhode, a Licensed Mechanical Engineer and Statistics Teacher transitioning into Data Analytics & Data Engineering. 
 
