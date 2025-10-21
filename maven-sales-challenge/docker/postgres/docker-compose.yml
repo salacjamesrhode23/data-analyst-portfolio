@@ -2,11 +2,11 @@ version: "3.8"
 services:
   postgres:
     image: postgres
-    container_name: nyc-taxi
+    container_name: maven-sales-challenge
     environment:
       POSTGRES_USER: kestra
-      POSTGRES_PASSWORD: dR4m%T6nb
-      POSTGRES_DB: nyc_taxi
+      POSTGRES_PASSWORD: k3str4
+      POSTGRES_DB: mavensales_db
     ports:
       - "5432:5432"
     volumes:
